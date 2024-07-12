@@ -22,7 +22,11 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
   - GraphQL
   - AWS EC2
 
-- 📫 How to reach me: [viniciusvale@usp.br](mailto:viniciusvale@usp.br)
+- 🌍 I am fluent in English.
+
+- 📫 How to reach me:
+  - Email: [viniciusvale@usp.br](mailto:viniciusvale@usp.br)
+  - LinkedIn: [Vinicius Vale Oliveira](https://www.linkedin.com/in/viniciusvaleoliveira/)
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
