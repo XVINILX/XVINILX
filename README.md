@@ -10,7 +10,8 @@ In addition to this project, I have integrated with different APIs: Stripe, Efi 
 
 
 ## About Me
-- 🌱 I’m currently working with: 
+- 🌱 I’m currently working with:
+  - Typescript
   - JavaScript
   - React
   - Node.js
