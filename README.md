@@ -2,7 +2,7 @@
 
 I've been working with TypeScript, Node, and React for a year and a half, during which I've started and completed 4 projects and participated in over 15 projects.
 
-### Highlighted Project: [ncxopenbanking.com.br](https://ncxopenbanking.com.br)
+### Highlighted Project: ncxopenbanking
 In this project, I utilized Node with Domain-Driven Design (DDD), React, and PostgreSQL. The platform has an average of 300 daily logins and 600 customer accesses. Key features I implemented include:
 - Real-time chat using WebSocket
 - Order tracking system with email notifications for administrators
