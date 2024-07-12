@@ -3,10 +3,13 @@
 I've been working with TypeScript, Node, and React for a year and a half, during which I've started and completed 4 projects and participated in over 15 projects.
 
 ### Highlighted Project: ncxopenbanking
-In this project, I utilized Node with Domain-Driven Design (DDD), React, and PostgreSQL. The platform has an average of 300 daily logins and 600 customer accesses. Key features I implemented include:
+In this project, I utilized Node with Domain-Driven Design (DDD), Nest js, React, and PostgreSQL. The platform has an average of 300 daily logins and 600 customer accesses. Key features I implemented include:
 - Real-time chat using WebSocket
 - Order tracking system with email notifications for administrators
 - Automatic commission registration system post-sales
+- Deploy backend, frontend and database at Digital Ocean
+- Biggest difficults in this project: understand all business logic (flux of selling products, flux of comission according to different type of users and percentage of comission)
+ 
 
 Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, League of Legends, and more.
 
@@ -17,6 +20,8 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
   - React
   - Node.js
   - RESTful APIs
+  - Python (Django)
+  - WordPress
 
 - 🌟 I'm currently learning:
   - GraphQL
@@ -34,6 +39,9 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+
 
 ## Projects
 ### [Backend - Pets API](https://github.com/XVINILX/pets-api)
