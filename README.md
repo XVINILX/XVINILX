@@ -52,5 +52,10 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
 - GraphQL API developed to start my studies in GraphQL APIs
 - Built with NestJS, TypeORM, PostgreSQL, and Docker
 
+## [Fullstack Application - Marcação Pontos](https://github.com/XVINILX/marcacao-pontos)
+- Application to manage employee punch clock and administrator add manage then.
+- Built with Node Js, React, Prisma ORM, PostgreSQL, Docker, ApexCharts, Deploy at AWS.
+
+
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=XVINILX&show_icons=true&hide_border=true)
