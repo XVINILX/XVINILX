@@ -26,6 +26,7 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
 - 🌟 I'm currently learning:
   - GraphQL
   - AWS EC2
+  - Kubernets
 
 - 🌍 I am fluent in English.
 
@@ -44,6 +45,13 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
 
 
 ## Projects
+
+## [Backend - Woovi Payment](https://github.com/XVINILX/payments-woovi)
+- Application to manage payments between users.
+- The idea was to use the lowest quantity of  libraries on it.
+- Built with Node Js, Mongoose, PostgreSQL, Docker.
+
+- 
 ### [Backend - Pets API](https://github.com/XVINILX/pets-api)
 - RESTful API for user authentication and company registration
 - Built with NestJS, DDD, JWT authentication, Docker, PostgreSQL, and TypeORM
