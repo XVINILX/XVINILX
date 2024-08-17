@@ -21,6 +21,8 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
   - Node.js
   - RESTful APIs
   - Python (Django)
+  - PostgresSQL
+  - MongoDB
   - WordPress
 
 - 🌟 I'm currently learning:
