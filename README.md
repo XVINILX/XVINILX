@@ -48,6 +48,12 @@ Additionally, I've integrated various APIs such as Stripe, Efi Pix, ChatGPT, Lea
 
 ## Projects
 
+
+## [Backend - Registery of water and energy bill](https://github.com/XVINILX/shopper-backend-gemini/tree/master)
+- Use of Google Computer Vision to get the value of bill from bill image;
+- Registry the bill with some validations.
+- Built with Nest JS, TypeORM, PostgresSQL, Docker.
+
 ## [Backend - Woovi Payment](https://github.com/XVINILX/payments-woovi)
 - Application to manage payments between users.
 - The idea was to use the lowest quantity of  libraries on it.
